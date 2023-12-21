@@ -4,5 +4,6 @@ __pycache__/
 *$py.class
 
 # Other files
+models
 sample_data
 .vscode
